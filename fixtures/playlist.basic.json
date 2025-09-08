@@ -1,0 +1,886 @@
+{
+  "playlists": [
+    {
+      "id": "37i9dQZF1DXcBWIGoYBM5M",
+      "name": "Today's Top Hits",
+      "owner": "spotify",
+      "snapshot": "MTY5ODc2NTQwMCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": [
+        {
+          "track": {
+            "id": "4iV5W9uYEdYUVa79Axb7Rh",
+            "name": "Flowers",
+            "duration_ms": 200454,
+            "explicit": false,
+            "popularity": 95,
+            "album": {
+              "id": "1zJZPTeOj1nI8OR2OIVVKm",
+              "name": "Endless Summer Vacation",
+              "release_date": "2023-03-10",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "5YGY8feqx7naU7z4HrwZM6",
+                "name": "Miley Cyrus",
+                "popularity": 85,
+                "followers": 45123456
+              }
+            ]
+          },
+          "added_at": "2023-01-13T00:00:00Z",
+          "added_by": "spotify",
+          "position": 0
+        },
+        {
+          "track": {
+            "id": "1BxfuPKGuaTgP7aM0Bbdwr",
+            "name": "Cruel Summer",
+            "duration_ms": 178426,
+            "explicit": false,
+            "popularity": 92,
+            "album": {
+              "id": "1NAmidJlEaVgA3MpcPFYGq",
+              "name": "Lover",
+              "release_date": "2019-08-23",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "06HL4z0CvFAxyc27GXpf02",
+                "name": "Taylor Swift",
+                "popularity": 100,
+                "followers": 92345678
+              }
+            ]
+          },
+          "added_at": "2023-01-14T00:00:00Z",
+          "added_by": "spotify",
+          "position": 1
+        },
+        {
+          "track": {
+            "id": "7qiZfU4dY1lWllzX7mPBI3",
+            "name": "Shape of You",
+            "duration_ms": 233713,
+            "explicit": false,
+            "popularity": 88,
+            "album": {
+              "id": "3T4tUhGYeRNVUGevb0wThu",
+              "name": "Your way",
+              "release_date": "2017-03-03",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                "name": "Ed Sheeran",
+                "popularity": 90,
+                "followers": 87654321
+              }
+            ]
+          },
+          "added_at": "2023-01-15T00:00:00Z",
+          "added_by": "user123",
+          "position": 2
+        },
+        {
+          "track": {
+            "id": "0VjIjW4GlUZAMYd2vXMi3b",
+            "name": "Blinding Lights",
+            "duration_ms": 200040,
+            "explicit": false,
+            "popularity": 94,
+            "album": {
+              "id": "4yP0hdKOZPNshxUOjY0cZj",
+              "name": "After Hours",
+              "release_date": "2020-03-20",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+                "name": "The Weeknd",
+                "popularity": 96,
+                "followers": 78901234
+              }
+            ]
+          },
+          "added_at": "2023-01-16T00:00:00Z",
+          "added_by": "user456",
+          "position": 3
+        },
+        {
+          "track": {
+            "id": "6WrI0LAC5M1Rw2MnX2ZvEg",
+            "name": "Don't Start Now",
+            "duration_ms": 183290,
+            "explicit": false,
+            "popularity": 89,
+            "album": {
+              "id": "7sfbqsjU8XBs2utHSShRNA",
+              "name": "Future Nostalgia",
+              "release_date": "2020-03-27",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "6M2wZ9GZgrQXHCFfjv46we",
+                "name": "Dua Lipa",
+                "popularity": 91,
+                "followers": 65432109
+              }
+            ]
+          },
+          "added_at": "2023-01-17T00:00:00Z",
+          "added_by": "spotify",
+          "position": 4
+        },
+        {
+          "track": {
+            "id": "3n3Ppam7vgaVa1iaRUc9Lp",
+            "name": "Mr. Brightside",
+            "duration_ms": 222075,
+            "explicit": false,
+            "popularity": 85,
+            "album": {
+              "id": "6TJmQnO44YE5BtTxH8pop1",
+              "name": "Hot Fuss",
+              "release_date": "2004-06-07",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "0C0XlULifJtAgn6ZNCW2eu",
+                "name": "The Killers",
+                "popularity": 82,
+                "followers": 12345678
+              }
+            ]
+          },
+          "added_at": "2023-01-18T00:00:00Z",
+          "added_by": "user789",
+          "position": 5
+        },
+        {
+          "track": {
+            "id": "4VqPOruhp5EdPBeR92t6lQ",
+            "name": "Uptown Funk",
+            "duration_ms": 269200,
+            "explicit": false,
+            "popularity": 87,
+            "album": {
+              "id": "1uyf3l2d4XYwiEqAb7t7fX",
+              "name": "Uptown Special",
+              "release_date": "2015-01-13",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "2UazAtjfzqBF0Nho2awK4z",
+                "name": "Mark Ronson",
+                "popularity": 75,
+                "followers": 8765432
+              },
+              {
+                "id": "0du5cEVh5yTK9QJze8zA0C",
+                "name": "Bruno Mars",
+                "popularity": 93,
+                "followers": 45678901
+              }
+            ]
+          },
+          "added_at": "2023-01-19T00:00:00Z",
+          "added_by": "spotify",
+          "position": 6
+        },
+        {
+          "track": {
+            "id": "1mWdTewIgB3gtBM3TOSFhB",
+            "name": "Someone Like You",
+            "duration_ms": 285467,
+            "explicit": false,
+            "popularity": 83,
+            "album": {
+              "id": "7uwTHXmFa1Ebi5flqBosig",
+              "name": "21",
+              "release_date": "2011-01-24",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "4dpARuHxo51G3z768sgnrY",
+                "name": "Adele",
+                "popularity": 89,
+                "followers": 34567890
+              }
+            ]
+          },
+          "added_at": "2023-01-20T00:00:00Z",
+          "added_by": "user123",
+          "position": 7
+        },
+        {
+          "track": {
+            "id": "7GhIk7Il098yCjg4BQjzvb",
+            "name": "Levitating",
+            "duration_ms": 203064,
+            "explicit": false,
+            "popularity": 91,
+            "album": {
+              "id": "7sfbqsjU8XBs2utHSShRNA",
+              "name": "Future Nostalgia",
+              "release_date": "2020-03-27",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "6M2wZ9GZgrQXHCFfjv46we",
+                "name": "Dua Lipa",
+                "popularity": 91,
+                "followers": 65432109
+              }
+            ]
+          },
+          "added_at": "2023-01-21T00:00:00Z",
+          "added_by": "spotify",
+          "position": 8
+        },
+        {
+          "track": {
+            "id": "0tgVpDi06FyKpA1z0VMD4v",
+            "name": "Perfect",
+            "duration_ms": 263400,
+            "explicit": false,
+            "popularity": 86,
+            "album": {
+              "id": "3T4tUhGYeRNVUGevb0wThu",
+              "name": "÷ (Deluxe)",
+              "release_date": "2017-03-03",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                "name": "Ed Sheeran",
+                "popularity": 90,
+                "followers": 87654321
+              }
+            ]
+          },
+          "added_at": "2023-01-22T00:00:00Z",
+          "added_by": "user456",
+          "position": 9
+        },
+        {
+          "track": {
+            "id": "2takcwOaAZWiXQijPHIx7B",
+            "name": "Time After Time",
+            "duration_ms": 239240,
+            "explicit": false,
+            "popularity": 78,
+            "album": {
+              "id": "0lw68yx3MhKflWFqCsGkIs",
+              "name": "She's So Unusual",
+              "release_date": "1983-10-14",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "1crisWRKIh7BR4agsS3Huv",
+                "name": "Cyndi Lauper",
+                "popularity": 65,
+                "followers": 2345678
+              }
+            ]
+          },
+          "added_at": "2023-01-23T00:00:00Z",
+          "added_by": "user789",
+          "position": 10
+        },
+        {
+          "track": {
+            "id": "4u7EnebtmKWzUH433cf5Qv",
+            "name": "Bohemian Rhapsody",
+            "duration_ms": 354947,
+            "explicit": false,
+            "popularity": 90,
+            "album": {
+              "id": "6i6folBtxKV28WX3msQ4FE",
+              "name": "A Night at the Opera",
+              "release_date": "1975-11-21",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "1dfeR4HaWDbWqFHLkxsg1d",
+                "name": "Queen",
+                "popularity": 88,
+                "followers": 56789012
+              }
+            ]
+          },
+          "added_at": "2023-01-24T00:00:00Z",
+          "added_by": "spotify",
+          "position": 11
+        },
+        {
+          "track": {
+            "id": "5ChkMS8OtdzJeqyybCc9R5",
+            "name": "Good 4 U",
+            "duration_ms": 178147,
+            "explicit": false,
+            "popularity": 88,
+            "album": {
+              "id": "6s84u2TUpR3wdUv4NgKA2j",
+              "name": "SOUR",
+              "release_date": "2021-05-21",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "1McMsnEElThX1knmY4oliG",
+                "name": "Olivia Rodrigo",
+                "popularity": 92,
+                "followers": 23456789
+              }
+            ]
+          },
+          "added_at": "2023-01-25T00:00:00Z",
+          "added_by": "user123",
+          "position": 12
+        },
+        {
+          "track": {
+            "id": "7ouMYWpwJ422jRcDASZB7P",
+            "name": "Knights of Cydonia",
+            "duration_ms": 366213,
+            "explicit": false,
+            "popularity": 76,
+            "album": {
+              "id": "0lw68yx3MhKflWFqCsGkIs",
+              "name": "Black Holes and Revelations",
+              "release_date": "2006-07-03",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "12Chz98pHFMPJEknJQMWvI",
+                "name": "Muse",
+                "popularity": 79,
+                "followers": 12345678
+              }
+            ]
+          },
+          "added_at": "2023-01-26T00:00:00Z",
+          "added_by": "user456",
+          "position": 13
+        },
+        {
+          "track": {
+            "id": "1Je1IMUlBXcx1Fz0WE7oPT",
+            "name": "Bad Guy",
+            "duration_ms": 194088,
+            "explicit": false,
+            "popularity": 89,
+            "album": {
+              "id": "0S0KGZnfBGSIssfF54WSJh",
+              "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+              "release_date": "2019-03-29",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+                "name": "Billie Eilish",
+                "popularity": 94,
+                "followers": 67890123
+              }
+            ]
+          },
+          "added_at": "2023-01-27T00:00:00Z",
+          "added_by": "spotify",
+          "position": 14
+        },
+        {
+          "track": {
+            "id": "2Fxmhks0bxGSBdJ92vM42m",
+            "name": "Bad Habits",
+            "duration_ms": 230747,
+            "explicit": false,
+            "popularity": 84,
+            "album": {
+              "id": "2aoR4eZs8VlZsM6zbmzJdY",
+              "name": "Listen all night",
+              "release_date": "2021-10-29",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                "name": "Ed Sheeran",
+                "popularity": 90,
+                "followers": 87654321
+              }
+            ]
+          },
+          "added_at": "2023-01-28T00:00:00Z",
+          "added_by": "user789",
+          "position": 15
+        },
+        {
+          "track": {
+            "id": "11dFghVXANMlKmJXsNCbNl",
+            "name": "Closer",
+            "duration_ms": 244960,
+            "explicit": false,
+            "popularity": 82,
+            "album": {
+              "id": "1A2GTWGtFfWp7KSQTwWOyo",
+              "name": "Collage EP",
+              "release_date": "2016-07-29",
+              "album_type": "single"
+            },
+            "artists": [
+              {
+                "id": "69GGBxA162lTqCwzJG5jLp",
+                "name": "The Chainsmokers",
+                "popularity": 77,
+                "followers": 15678901
+              },
+              {
+                "id": "74KM79TiuVKeVCqs8QtB0B",
+                "name": "Halsey",
+                "popularity": 81,
+                "followers": 23456789
+              }
+            ]
+          },
+          "added_at": "2023-01-29T00:00:00Z",
+          "added_by": "spotify",
+          "position": 16
+        },
+        {
+          "track": {
+            "id": "0sf8kmqzHlRqKwCuc7dF1D",
+            "name": "Watermelon Sugar",
+            "duration_ms": 174000,
+            "explicit": false,
+            "popularity": 87,
+            "album": {
+              "id": "7xV2TzoaVc0ycW7fwBwAml",
+              "name": "Fine Line",
+              "release_date": "2019-12-13",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "6KImCVD70vtIoJWnq6nGn3",
+                "name": "Harry Styles",
+                "popularity": 91,
+                "followers": 34567890
+              }
+            ]
+          },
+          "added_at": "2023-01-30T00:00:00Z",
+          "added_by": "user123",
+          "position": 17
+        },
+        {
+          "track": {
+            "id": "1r9xUipOqoNwggBpENDsvJ",
+            "name": "drivers license",
+            "duration_ms": 242213,
+            "explicit": false,
+            "popularity": 85,
+            "album": {
+              "id": "6s84u2TUpR3wdUv4NgKA2j",
+              "name": "SOUR",
+              "release_date": "2021-05-21",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "1McMsnEElThX1knmY4oliG",
+                "name": "Olivia Rodrigo",
+                "popularity": 92,
+                "followers": 23456789
+              }
+            ]
+          },
+          "added_at": "2023-01-31T00:00:00Z",
+          "added_by": "user456",
+          "position": 18
+        },
+        {
+          "track": {
+            "id": "6habFhsOp2NvshLv26DqMb",
+            "name": "Someone You Loved",
+            "duration_ms": 182160,
+            "explicit": false,
+            "popularity": 84,
+            "album": {
+              "id": "3xybjP7r2VsWzwvDQipdM0",
+              "name": "Divinely Uninspired To A Hellish Extent",
+              "release_date": "2019-05-17",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "4GNC7GD6oZMSxPGyXy4MNB",
+                "name": "Lewis Capaldi",
+                "popularity": 78,
+                "followers": 12345678
+              }
+            ]
+          },
+          "added_at": "2023-02-01T00:00:00Z",
+          "added_by": "spotify",
+          "position": 19
+        },
+        {
+          "track": {
+            "id": "0VjIjW4GlUZAMYd2vXMi3c",
+            "name": "Can't Stop the Feeling!",
+            "duration_ms": 236267,
+            "explicit": false,
+            "popularity": 81,
+            "album": {
+              "id": "4VZ0zWxHVKIoJWnq6nGn4",
+              "name": "Trolls (Original Motion Picture Soundtrack)",
+              "release_date": "2016-09-23",
+              "album_type": "compilation"
+            },
+            "artists": [
+              {
+                "id": "31TPClRtHm23RisEBtV3X7",
+                "name": "Justin Timberlake",
+                "popularity": 80,
+                "followers": 23456789
+              }
+            ]
+          },
+          "added_at": "2023-02-02T00:00:00Z",
+          "added_by": "user789",
+          "position": 20
+        }
+      ]
+    },
+    {
+      "id": "37i9dQZF1DX0XUsuxWHRQd",
+      "name": "RapCaviar",
+      "owner": "spotify",
+      "snapshot": "MTY5ODc2NTQwMCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjhl",
+      "tracks": [
+        {
+          "track": {
+            "id": "7MXVkk9YMctZqd1Srtv4MB",
+            "name": "Sunflower",
+            "duration_ms": 158040,
+            "explicit": false,
+            "popularity": 88,
+            "album": {
+              "id": "35s58BRTGAEWztPo9WqCIs",
+              "name": "Spider-Man: Into the Spider-Verse",
+              "release_date": "2018-12-14",
+              "album_type": "compilation"
+            },
+            "artists": [
+              {
+                "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+                "name": "Travis Scott",
+                "popularity": 95,
+                "followers": 52000000
+              },
+              {
+                "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+                "name": "Post Malone",
+                "popularity": 94,
+                "followers": 48000000
+              }
+            ]
+          },
+          "added_at": "2023-02-03T00:00:00Z",
+          "added_by": "spotify",
+          "position": 0
+        },
+        {
+          "track": {
+            "id": "6WrI0LAC5M1Rw2MnX2ZvEg",
+            "name": "Don't Start Now",
+            "duration_ms": 183290,
+            "explicit": false,
+            "popularity": 89,
+            "album": {
+              "id": "7sfbqsjU8XBs2utHSShRNA",
+              "name": "Future Nostalgia",
+              "release_date": "2020-03-27",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "6M2wZ9GZgrQXHCFfjv46we",
+                "name": "Dua Lipa",
+                "popularity": 91,
+                "followers": 65432109
+              }
+            ]
+          },
+          "added_at": "2023-02-04T00:00:00Z",
+          "added_by": "spotify",
+          "position": 1
+        },
+        {
+          "track": {
+            "id": "2YpeDb67231RjR0MgVLzsG",
+            "name": "God's Plan",
+            "duration_ms": 198973,
+            "explicit": true,
+            "popularity": 86,
+            "album": {
+              "id": "1ATL5GLyefJaxhQzSPVrLX",
+              "name": "Scorpion",
+              "release_date": "2018-06-29",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "3TVXtAsR1Inumwj472S9r4",
+                "name": "Drake",
+                "popularity": 97,
+                "followers": 75000000
+              }
+            ]
+          },
+          "added_at": "2023-02-05T00:00:00Z",
+          "added_by": "user123",
+          "position": 2
+        },
+        {
+          "track": {
+            "id": "1Je1IMUlBXcx1Fz0WE7oPT",
+            "name": "Bad Guy",
+            "duration_ms": 194088,
+            "explicit": false,
+            "popularity": 89,
+            "album": {
+              "id": "0S0KGZnfBGSIssfF54WSJh",
+              "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+              "release_date": "2019-03-29",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+                "name": "Billie Eilish",
+                "popularity": 94,
+                "followers": 67890123
+              }
+            ]
+          },
+          "added_at": "2023-02-06T00:00:00Z",
+          "added_by": "user456",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": "37i9dQZF1DX4JAvHpjipBk",
+      "name": "New Music Friday",
+      "owner": "spotify",
+      "snapshot": "MTY5ODc2NTQwMCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0MjJl",
+      "tracks": [
+        {
+          "track": {
+            "id": "4iV5W9uYEdYUVa79Axb7Rh",
+            "name": "Flowers",
+            "duration_ms": 200454,
+            "explicit": false,
+            "popularity": 95,
+            "album": {
+              "id": "1zJZPTeOj1nI8OR2OIVVKm",
+              "name": "Endless Summer Vacation",
+              "release_date": "2023-03-10",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "5YGY8feqx7naU7z4HrwZM6",
+                "name": "Miley Cyrus",
+                "popularity": 85,
+                "followers": 45123456
+              }
+            ]
+          },
+          "added_at": "2023-02-07T00:00:00Z",
+          "added_by": "spotify",
+          "position": 0
+        },
+        {
+          "track": {
+            "id": "5ChkMS8OtdzJeqyybCc9R5",
+            "name": "Good 4 U",
+            "duration_ms": 178147,
+            "explicit": false,
+            "popularity": 88,
+            "album": {
+              "id": "6s84u2TUpR3wdUv4NgKA2j",
+              "name": "SOUR",
+              "release_date": "2021-05-21",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "1McMsnEElThX1knmY4oliG",
+                "name": "Olivia Rodrigo",
+                "popularity": 92,
+                "followers": 23456789
+              }
+            ]
+          },
+          "added_at": "2023-02-08T00:00:00Z",
+          "added_by": "spotify",
+          "position": 1
+        },
+        {
+          "track": {
+            "id": "3WMj8moIAXJhHsyLaqIIHI",
+            "name": "As It Was",
+            "duration_ms": 167303,
+            "explicit": false,
+            "popularity": 93,
+            "album": {
+              "id": "5r36AJ6VOJtp00oxSkBZ5h",
+              "name": "Harry's House",
+              "release_date": "2022-05-20",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "6KImCVD70vtIoJWnq6nGn3",
+                "name": "Harry Styles",
+                "popularity": 91,
+                "followers": 34567890
+              }
+            ]
+          },
+          "added_at": "2023-02-09T00:00:00Z",
+          "added_by": "user789",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "37i9dQZF1DX1lVhptIYRda",
+      "name": "Hot Country",
+      "owner": "spotify",
+      "snapshot": "MTY5ODc2NTQwMCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0MjNl",
+      "tracks": [
+        {
+          "track": {
+            "id": "0tgVpDi06FyKpA1z0VMD4v",
+            "name": "Perfect",
+            "duration_ms": 263400,
+            "explicit": false,
+            "popularity": 86,
+            "album": {
+              "id": "3T4tUhGYeRNVUGevb0wThu",
+              "name": "÷ (Deluxe)",
+              "release_date": "2017-03-03",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                "name": "Ed Sheeran",
+                "popularity": 90,
+                "followers": 87654321
+              }
+            ]
+          },
+          "added_at": "2023-02-10T00:00:00Z",
+          "added_by": "spotify",
+          "position": 0
+        },
+        {
+          "track": {
+            "id": "7K3BhSpAxZXdsd0UeJLjKI",
+            "name": "The Good Ones",
+            "duration_ms": 201533,
+            "explicit": false,
+            "popularity": 75,
+            "album": {
+              "id": "4Hjqdhj5rh816i1dfcUEaM",
+              "name": "What You See Is What You Get",
+              "release_date": "2019-11-08",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "4oUHIQIBe0LHzYfvXNW4QM",
+                "name": "Luke Combs",
+                "popularity": 82,
+                "followers": 8500000
+              }
+            ]
+          },
+          "added_at": "2023-02-11T00:00:00Z",
+          "added_by": "user123",
+          "position": 1
+        },
+        {
+          "track": {
+            "id": "6habFhsOp2NvshLv26DqMb",
+            "name": "Someone You Loved",
+            "duration_ms": 182160,
+            "explicit": false,
+            "popularity": 84,
+            "album": {
+              "id": "3xybjP7r2VsWzwvDQipdM0",
+              "name": "Divinely Uninspired To A Hellish Extent",
+              "release_date": "2019-05-17",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "4GNC7GD6oZMSxPGyXy4MNB",
+                "name": "Lewis Capaldi",
+                "popularity": 78,
+                "followers": 12345678
+              }
+            ]
+          },
+          "added_at": "2023-02-12T00:00:00Z",
+          "added_by": "user456",
+          "position": 2
+        },
+        {
+          "track": {
+            "id": "1BxfuPKGuaTgP7aM0Bbdwr",
+            "name": "Cruel Summer",
+            "duration_ms": 178426,
+            "explicit": false,
+            "popularity": 92,
+            "album": {
+              "id": "1NAmidJlEaVgA3MpcPFYGq",
+              "name": "Lover",
+              "release_date": "2019-08-23",
+              "album_type": "album"
+            },
+            "artists": [
+              {
+                "id": "06HL4z0CvFAxyc27GXpf02",
+                "name": "Taylor Swift",
+                "popularity": 100,
+                "followers": 92345678
+              }
+            ]
+          },
+          "added_at": "2023-02-13T00:00:00Z",
+          "added_by": "spotify",
+          "position": 3
+        }
+      ]
+    }
+  ]
+}

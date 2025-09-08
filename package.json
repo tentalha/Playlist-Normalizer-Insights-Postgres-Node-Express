@@ -1,0 +1,27 @@
+{
+  "name": "playlist-normalizer",
+  "version": "1.0.0",
+  "description": "Playlist Normalizer & Insights - ETL + API with Node.js + SQL + ClickHouse",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/api/server.js",
+    "dev": "node --watch src/api/server.js",
+    "setup-db": "node src/config/setup-db.js",
+    "ingest": "node src/ingest/ingest.js",
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "pg": "^8.11.3",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.3"
+  }
+}

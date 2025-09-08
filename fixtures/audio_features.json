@@ -1,0 +1,193 @@
+{
+  "audio_features": [
+    {
+      "track_id": "4iV5W9uYEdYUVa79Axb7Rh",
+      "danceability": 0.705,
+      "energy": 0.564,
+      "tempo": 95.977,
+      "key": 1,
+      "mode": 1,
+      "valence": 0.517
+    },
+    {
+      "track_id": "1BxfuPKGuaTgP7aM0Bbdwr",
+      "danceability": 0.552,
+      "energy": 0.702,
+      "tempo": 169.994,
+      "key": 9,
+      "mode": 1,
+      "valence": 0.564
+    },
+    {
+      "track_id": "7qiZfU4dY1lWllzX7mPBI3",
+      "danceability": 0.825,
+      "energy": 0.652,
+      "tempo": 95.977,
+      "key": 1,
+      "mode": 0,
+      "valence": 0.931
+    },
+    {
+      "track_id": "0VjIjW4GlUZAMYd2vXMi3b",
+      "danceability": 0.514,
+      "energy": 0.730,
+      "tempo": 171.009,
+      "key": 1,
+      "mode": 1,
+      "valence": 0.334
+    },
+    {
+      "track_id": "6WrI0LAC5M1Rw2MnX2ZvEg",
+      "danceability": 0.794,
+      "energy": 0.793,
+      "tempo": 124.007,
+      "key": 6,
+      "mode": 1,
+      "valence": 0.679
+    },
+    {
+      "track_id": "3n3Ppam7vgaVa1iaRUc9Lp",
+      "danceability": 0.653,
+      "energy": 0.891,
+      "tempo": 148.040,
+      "key": 1,
+      "mode": 1,
+      "valence": 0.842
+    },
+    {
+      "track_id": "4VqPOruhp5EdPBeR92t6lQ",
+      "danceability": 0.896,
+      "energy": 0.842,
+      "tempo": 115.000,
+      "key": 7,
+      "mode": 0,
+      "valence": 0.934
+    },
+    {
+      "track_id": "1mWdTewIgB3gtBM3TOSFhB",
+      "danceability": 0.345,
+      "energy": 0.234,
+      "tempo": 67.963,
+      "key": 1,
+      "mode": 1,
+      "valence": 0.123
+    },
+    {
+      "track_id": "7GhIk7Il098yCjg4BQjzvb",
+      "danceability": 0.702,
+      "energy": 0.825,
+      "tempo": 103.000,
+      "key": 6,
+      "mode": 1,
+      "valence": 0.915
+    },
+    {
+      "track_id": "0tgVpDi06FyKpA1z0VMD4v",
+      "danceability": 0.448,
+      "energy": 0.448,
+      "tempo": 95.050,
+      "key": 4,
+      "mode": 1,
+      "valence": 0.692
+    },
+    {
+      "track_id": "2takcwOaAZWiXQijPHIx7B",
+      "danceability": 0.567,
+      "energy": 0.623,
+      "tempo": 120.000,
+      "key": 2,
+      "mode": 1,
+      "valence": 0.745
+    },
+    {
+      "track_id": "4u7EnebtmKWzUH433cf5Qv",
+      "danceability": 0.298,
+      "energy": 0.634,
+      "tempo": 72.000,
+      "key": 3,
+      "mode": 0,
+      "valence": 0.545
+    },
+    {
+      "track_id": "5ChkMS8OtdzJeqyybCc9R5",
+      "danceability": 0.563,
+      "energy": 0.664,
+      "tempo": 166.928,
+      "key": 0,
+      "mode": 1,
+      "valence": 0.688
+    },
+    {
+      "track_id": "7ouMYWpwJ422jRcDASZB7P",
+      "danceability": 0.389,
+      "energy": 0.923,
+      "tempo": 135.000,
+      "key": 8,
+      "mode": 0,
+      "valence": 0.456
+    },
+    {
+      "track_id": "1Je1IMUlBXcx1Fz0WE7oPT",
+      "danceability": 0.703,
+      "energy": 0.434,
+      "tempo": 135.928,
+      "key": 7,
+      "mode": 0,
+      "valence": 0.434
+    },
+    {
+      "track_id": "2Fxmhks0bxGSBdJ92vM42m",
+      "danceability": 0.679,
+      "energy": 0.890,
+      "tempo": 126.026,
+      "key": 6,
+      "mode": 1,
+      "valence": 0.823
+    },
+    {
+      "track_id": "11dFghVXANMlKmJXsNCbNl",
+      "danceability": 0.748,
+      "energy": 0.685,
+      "tempo": 95.010,
+      "key": 8,
+      "mode": 1,
+      "valence": 0.661
+    },
+    {
+      "track_id": "0sf8kmqzHlRqKwCuc7dF1D",
+      "danceability": 0.548,
+      "energy": 0.816,
+      "tempo": 95.390,
+      "key": 7,
+      "mode": 1,
+      "valence": 0.557
+    },
+    {
+      "track_id": "1r9xUipOqoNwggBpENDsvJ",
+      "danceability": 0.558,
+      "energy": 0.664,
+      "tempo": 143.928,
+      "key": 8,
+      "mode": 1,
+      "valence": 0.692
+    },
+    {
+      "track_id": "6habFhsOp2NvshLv26DqMb",
+      "danceability": 0.503,
+      "energy": 0.379,
+      "tempo": 109.891,
+      "key": 1,
+      "mode": 1,
+      "valence": 0.446
+    },
+    {
+      "track_id": "0VjIjW4GlUZAMYd2vXMi3c",
+      "danceability": 0.848,
+      "energy": 0.835,
+      "tempo": 113.209,
+      "key": 0,
+      "mode": 1,
+      "valence": 0.967
+    }
+  ]
+}
